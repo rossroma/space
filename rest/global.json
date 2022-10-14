@@ -1,0 +1,164 @@
+{
+  "operation": [
+    {
+      "name": "官网",
+      "icon": "home",
+      "link": "https://www.aliyun.com/solution/hybridcloud?spm=a2ciq.13956874.banner.d-banner-btn-2.63f63390Y3nTgn",
+      "mobile": false
+    },
+    {
+      "name": "微信",
+      "icon": "displayer",
+      "link": "https://apsara-stack.aliyun.com/poc/?spm=5176.23601142.J_9539135940.2.46635d42x0TqDM",
+      "mobile": false
+    },
+    {
+      "name": "咨询",
+      "icon": "headset",
+      "link": "https://apsara-stack.aliyun.com/consult/home",
+      "mobile": false
+    },
+    {
+      "name": "分享",
+      "icon": "share",
+      "mobile": true,
+      "uaWhiteList": "DingTalk|WeChat"
+    }
+  ],
+  "nav": [
+    {
+      "name": "菜单一",
+      "imgUrl": "//img.alicdn.com/imgextra/i1/O1CN01fY93bp1IydmMpsQHC_!!6000000000962-0-tps-660-371.jpg",
+      "videoUrl": "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/build@2.mp4",
+      "link": "/build",
+      "children": [
+        {
+          "name": "AAAA",
+          "link": "/build/introduction"
+        },
+        {
+          "name": "BBBB",
+          "link": "/build/enterprise"
+        },
+        {
+          "name": "CCCC",
+          "link": "/build/agility"
+        }
+      ],
+      "mobileNextPage": false
+    },
+    {
+      "name": "菜单二",
+      "imgUrl": "//img.alicdn.com/imgextra/i1/O1CN01nxXxvz1ODMWUWmgn5_!!6000000001671-0-tps-660-371.jpg",
+      "videoUrl": "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/control@2.mp4",
+      "link": "/control",
+      "children": [
+        {
+          "name": "1111",
+          "link": "/control/doa"
+        },
+        {
+          "name": "2222",
+          "link": "/control/uniops"
+        },
+        {
+          "name": "3333",
+          "link": "/control/resource"
+        },
+        {
+          "name": "44444",
+          "link": "/control/operation"
+        }
+      ],
+      "mobileNextPage": false
+    },
+    {
+      "name": "菜单三",
+      "imgUrl": "//img.alicdn.com/imgextra/i2/O1CN01x97zMQ1SZaGhXnYag_!!6000000002261-0-tps-660-371.jpg",
+      "videoUrl": "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/use@2.mp4",
+      "link": "/use",
+      "children": [
+        {
+          "name": "甲乙",
+          "link": "/use/devops"
+        },
+        {
+          "name": "丙丁",
+          "link": "/use/aaop"
+        },
+        {
+          "name": "午己",
+          "link": "/use/monitor"
+        },
+        {
+          "name": "庚辛",
+          "link": "/use/recovery"
+        },
+        {
+          "name": "壬癸",
+          "link": "/use/engineering"
+        }
+      ],
+      "mobileNextPage": false
+    },
+    {
+      "name": "自定义菜单",
+      "imgUrl": "//img.alicdn.com/imgextra/i2/O1CN01x97zMQ1SZaGhXnYag_!!6000000002261-0-tps-660-371.jpg",
+      "videoUrl": "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/use@2.mp4",
+      "link": "/custom",
+      "children": [
+        {
+          "name": "甲乙",
+          "link": "/custom/devops"
+        },
+        {
+          "name": "丙丁",
+          "link": "/custom/aaop"
+        },
+        {
+          "name": "午己",
+          "link": "/custom/monitor"
+        },
+        {
+          "name": "庚辛",
+          "link": "/custom/recovery"
+        },
+        {
+          "name": "壬癸",
+          "link": "/custom/engineering"
+        }
+      ],
+      "mobileNextPage": false
+    },
+    {
+      "name": "菜单四",
+      "link": "/product",
+      "children": [
+        {
+          "link": "/product/structure",
+          "name": "子丑"
+        },
+        {
+          "name": "寅卯",
+          "link": "/product/container"
+        },
+        {
+          "name": "辰巳",
+          "link": "/product/storage"
+        },
+        {
+          "link": "/product/bigdata",
+          "name": "午马未羊"
+        },
+        {
+          "link": "/product/database",
+          "name": "戌亥"
+        }
+      ],
+      "mobileNextPage": true,
+      "imgUrl": "//img.alicdn.com/imgextra/i4/O1CN01SK5mrq1pRYQnWERXX_!!6000000005357-0-tps-330-186.jpg",
+      "videoUrl": "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/product@2.mp4",
+      "mobileImgUrl": "//gw.alicdn.com/imgextra/i1/O1CN01vlLilP1KsnuJ7avuU_!!6000000001220-0-tps-372-618.jpg"
+    }
+  ]
+}
