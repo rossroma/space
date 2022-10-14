@@ -134,7 +134,7 @@
       {
         "id": "AAAA",
         "link": "/build/introduction",
-        "position": [0, -1, -50], // 水平位置、垂直位置
+        "position": [0, -1, -50],
         "tip": "点击沈傲立"
       },
       {
