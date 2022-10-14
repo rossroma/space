@@ -34779,7 +34779,7 @@ PERFORMANCE OF THIS SOFTWARE.
                       switch (e.prev = e.next) {
                       case 0:
                           return e.next = 2,
-                          Object(i.e)("txddp.experience.venue");
+                          Object(i.e)("venue.json");
                       case 2:
                           return e.abrupt("return", e.sent);
                       case 3:
