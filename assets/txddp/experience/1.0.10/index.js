@@ -53839,7 +53839,7 @@ and limitations under the License.
           to: "/",
           trackEvent: ["\u5168\u5c40\u64cd\u4f5c", "logo"]
       }, o.a.createElement("img", {
-          src: "/assets/imgextra/i2/O1CN01gpYd3r1IgJsGXoJzT_!!6000000000922-2-tps-244-42.png",
+          src: "/assets/imgextra/logo.png",
           alt: "\u963f\u91cc\u4e91\uff5c\u6df7\u5408\u4e91"
       })), o.a.createElement("div", {
           className: "teamix-nav-operation"
@@ -53937,7 +53937,7 @@ and limitations under the License.
           hasPlaceholder: !0,
           nextText: "\u7ee7\u7eed\u63a2\u7d22",
           onNext: function t() {
-              Object(Ht.c)("/build", "/assets/build@2_".concat(ae.d ? "pc" : "mobile", ".mp4")),
+              Object(Ht.c)("/build", "//img2.rossroma.com/display/build@2_".concat(ae.d ? "pc" : "mobile", ".mp4")),
               Object(Vt.a)("\u7ee7\u7eed\u63a2\u7d22", "\u4e91\u5b9e\u8df5")
           }
       }, r)
@@ -54242,7 +54242,7 @@ and limitations under the License.
           null;
       function E() {
           var t = Be[p];
-          t && Object(Ht.c)("/".concat(t), "/assets/".concat(t, "@2_").concat(ae.d ? "pc" : "mobile", ".mp4")),
+          t && Object(Ht.c)("/".concat(t), "//img2.rossroma.com/display/".concat(t, "@2_").concat(ae.d ? "pc" : "mobile", ".mp4")),
           Object(Vt.a)("\u7ee7\u7eed\u63a2\u7d22", We(a))
       }
       function T() {

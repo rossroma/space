@@ -124,7 +124,7 @@
     "widthDeg": 120,
     "heightDeg": 30,
     "radius": 50,
-    "imgUrl": "/assets/001.jpg",
+    "imgUrl": "//img2.rossroma.com/display/001.jpg",
     "sidebar": [
       { "link": "/build/introduction", "name": "AAA" },
       { "name": "BBB", "link": "/build/enterprise" },
@@ -135,19 +135,19 @@
         "id": "AAAA",
         "link": "/build/introduction",
         "position": [0, -1, -50],
-        "tip": "点击沈傲立"
+        "tip": "点击查看详细"
       },
       {
         "id": "BBBB",
         "link": "/build/enterprise",
         "position": [-11.077424880973364, 1.5, -48.75746771527816],
-        "tip": "点击沈傲立"
+        "tip": "点击查看详细"
       },
       {
         "id": "CCCC",
         "link": "/build/agility",
         "position": [11.67226819279527, 1.5, -48.61849601988383],
-        "tip": "点击沈傲立"
+        "tip": "点击查看详细"
       },
       {
         "id": "DDDD",
@@ -326,7 +326,7 @@
     "widthDeg": 150,
     "heightDeg": 30,
     "radius": 50,
-    "imgUrl": "/assets/002.jpg",
+    "imgUrl": "//img2.rossroma.com/display/002.jpg",
     "sidebar": [
       { "link": "/control/introduction", "name": "整体介绍" },
       { "name": "智能指挥官大屏演示", "link": "/control/doa" },
@@ -411,7 +411,7 @@
     "widthDeg": 150,
     "heightDeg": 30,
     "radius": 50,
-    "imgUrl": "/assets/002.jpg",
+    "imgUrl": "//img2.rossroma.com/display/002.jpg",
     "sidebar": [
       { "link": "/custom/introduction", "name": "整体介绍" },
       { "name": "智能指挥官大屏演示", "link": "/custom/doa" },

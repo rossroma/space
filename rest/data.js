@@ -58,7 +58,7 @@ exports.nav = [
     "imgUrl":
       "//img.alicdn.com/imgextra/i1/O1CN01nxXxvz1ODMWUWmgn5_!!6000000001671-0-tps-660-371.jpg",
     "videoUrl":
-      "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/control@2.mp4",
+      "//img2.rossroma.com/display/control@2.mp4",
     "link": "/control",
     "children": [
       {
@@ -323,7 +323,7 @@ exports.build = {
   "heightDeg": 30,
   "radius": 50,
   "imgUrl":
-    "/assets/001.jpg",
+    "//img2.rossroma.com/display/001.jpg",
   "sidebar": [
     { "link": "/build/introduction", "name": "AAA" },
     { "name": "BBB", "link": "/build/enterprise" },
@@ -334,19 +334,19 @@ exports.build = {
       "id": "AAAA",
       "link": "/build/introduction",
       "position": [0, -1, -50], // 水平位置、垂直位置
-      "tip": "点击沈傲立",
+      "tip": "点击查看详细",
     },
     {
       "id": "BBBB",
       "link": "/build/enterprise",
       "position": [-11.077424880973364, 1.5, -48.75746771527816],
-      "tip": "点击沈傲立",
+      "tip": "点击查看详细",
     },
     {
       "id": "CCCC",
       "link": "/build/agility",
       "position": [11.67226819279527, 1.5, -48.61849601988383],
-      "tip": "点击沈傲立",
+      "tip": "点击查看详细",
     },
     {
       "id": "DDDD",
@@ -530,7 +530,7 @@ exports.control = {
   "widthDeg": 150,
   "heightDeg": 30,
   "radius": 50,
-  "imgUrl": "/assets/002.jpg",
+  "imgUrl": "//img2.rossroma.com/display/002.jpg",
   "sidebar": [
     { "link": "/control/introduction", "name": "整体介绍" },
     { "name": "智能指挥官大屏演示", "link": "/control/doa" },
@@ -617,7 +617,7 @@ exports.custom = {
   "widthDeg": 150,
   "heightDeg": 30,
   "radius": 50,
-  "imgUrl": "/assets/002.jpg",
+  "imgUrl": "//img2.rossroma.com/display/002.jpg",
   "sidebar": [
     { "link": "/custom/introduction", "name": "整体介绍" },
     { "name": "智能指挥官大屏演示", "link": "/custom/doa" },

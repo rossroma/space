@@ -81,7 +81,7 @@
           function O(e) {
               e.stopPropagation(),
               e.preventDefault(),
-              Object(l.c)("/practice", "/assets/practice_".concat(u.d ? "pc" : "mobile", ".mp4"))
+              Object(l.c)("/practice", "//img2.rossroma.com/display/practice_".concat(u.d ? "pc" : "mobile", ".mp4"))
           }
           return Object(r.useEffect)((function() {
               var e;
@@ -115,7 +115,7 @@
               style: {
                   objectFit: "cover"
               },
-              src: "/assets/home_".concat(u.d ? "pc" : "mobile", ".mp4"),
+              src: "//img2.rossroma.com/display/home_".concat(u.d ? "pc" : "mobile", ".mp4"),
               poster: "/assets/imgextra/i3/O1CN01HQUdjS1ujwP62ZU1s_!!6000000006074-0-tps-1920-1080.jpg",
               autoPlay: !0,
               muted: !0,
