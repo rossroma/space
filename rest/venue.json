@@ -338,7 +338,7 @@
       {
         "id": "点击观看视频",
         "link": "/control/uniops",
-        "position": [40, -0.75, -40]
+        "position": [20, -0.85, -40]
       }
     ],
     "mobileImgUrl": "http://img2.rossroma.com/display/002.jpg"
