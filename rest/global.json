@@ -3,19 +3,19 @@
     {
       "name": "官网",
       "icon": "home",
-      "link": "https://www.aliyun.com/solution/hybridcloud?spm=a2ciq.13956874.banner.d-banner-btn-2.63f63390Y3nTgn",
+      "link": "https://www.touchzn.com",
       "mobile": false
     },
     {
       "name": "微信",
       "icon": "displayer",
-      "link": "https://apsara-stack.aliyun.com/poc/?spm=5176.23601142.J_9539135940.2.46635d42x0TqDM",
+      "link": "https://www.touchzn.com/lxwm",
       "mobile": false
     },
     {
       "name": "咨询",
       "icon": "headset",
-      "link": "https://apsara-stack.aliyun.com/consult/home",
+      "link": "https://www.touchzn.com/lxwm",
       "mobile": false
     },
     {
