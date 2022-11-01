@@ -569,7 +569,7 @@ exports.control = {
       "position": [42.94799484653321, -1, -25.602143243528587]
     }
   ],
-  "mobileImgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01tLinmf1OlFqHgmEN6_!!6000000001745-0-tps-4096-1024.jpg"
+  "mobileImgUrl": "http://img2.rossroma.com/display/002.jpg"
 }
 
 // 自定义菜单
@@ -656,5 +656,5 @@ exports.custom = {
       "position": [42.94799484653321, -1, -25.602143243528587]
     }
   ],
-  "mobileImgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01tLinmf1OlFqHgmEN6_!!6000000001745-0-tps-4096-1024.jpg"
+  "mobileImgUrl": "http://img2.rossroma.com/display/002.jpg"
 }

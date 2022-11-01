@@ -115,7 +115,8 @@
               style: {
                   objectFit: "cover"
               },
-              src: "//img2.rossroma.com/display/home_".concat(u.d ? "pc" : "mobile", ".mp4"),
+            //   src: "//img2.rossroma.com/display/home_".concat(u.d ? "pc" : "mobile", ".mp4"),
+              src: "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/home_".concat(u.d ? "pc" : "mobile", ".mp4"),
               poster: "/assets/imgextra/i3/O1CN01HQUdjS1ujwP62ZU1s_!!6000000006074-0-tps-1920-1080.jpg",
               autoPlay: !0,
               muted: !0,
@@ -132,7 +133,7 @@
               className: p.a.center
           }, a.a.createElement("div", null, a.a.createElement("img", {
               className: p.a.solgan,
-              src: v.a ? "/assets/imgextra/i3/O1CN01da2P711uI0FwpWhX4_!!6000000006013-2-tps-1304-296.png" : "/assets/imgextra/i1/O1CN01CcRvYD1VQpTxZg3id_!!6000000002648-2-tps-1308-206.png",
+              src: v.a ? "/assets/imgextra/i3/O1CN01da2P711uI0FwpWhX4_!!6000000006013-2-tps-1304-296.png" : "//img2.rossroma.com/display/home_text.png",
               alt: "\u653f\u4f01\u6570\u667a\u521b\u65b0\u7684\u540c\u884c\u8005"
           })), a.a.createElement(o.b, {
               className: p.a.btn,

@@ -156,7 +156,7 @@
         "tip": "new point"
       }
     ],
-    "mobileImgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01VAwUvk1uMaGo58VPp_!!6000000006023-0-tps-4096-1024.jpg"
+    "mobileImgUrl": "//img2.rossroma.com/display/001.jpg"
   },
   "use": {
     "children": [
@@ -288,7 +288,7 @@
         "content": [],
         "id": "introduction",
         "type": "video",
-        "videoUrl": "https://tb-site-sketch.oss-cn-hangzhou.aliyuncs.com/%E6%B7%B7%E5%90%88%E4%BA%91%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C%E8%90%A5/%E6%99%BA%E8%83%BD%E7%AE%A1%E4%BA%91/0905%E6%99%BA%E8%83%BD%E4%BA%91%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0-%E6%88%90%E7%89%87.mp4",
+        "videoUrl": "http://img2.rossroma.com/display/video_mobile.mp4",
         "name": "智能管云介绍"
       },
       {
@@ -296,21 +296,21 @@
         "id": "operation",
         "name": "精细化运营管理",
         "type": "video",
-        "videoUrl": "https://tb-site-sketch.oss-cn-hangzhou.aliyuncs.com/%E6%B7%B7%E5%90%88%E4%BA%91%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C%E8%90%A5/%E6%99%BA%E8%83%BD%E7%AE%A1%E4%BA%91/%E4%B8%80%E4%BD%93%E5%8C%96%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86.mp4"
+        "videoUrl": "http://img2.rossroma.com/display/video_mobile.mp4"
       },
       {
         "content": [],
         "id": "resource",
         "name": "一体化资源管理",
         "type": "video",
-        "videoUrl": "https://tb-site-sketch.oss-cn-hangzhou.aliyuncs.com/%E6%B7%B7%E5%90%88%E4%BA%91%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C%E8%90%A5/%E6%99%BA%E8%83%BD%E7%AE%A1%E4%BA%91/%E6%99%BA%E8%83%BD%E5%8C%96%E9%9B%86%E4%B8%AD%E8%BF%90%E7%BB%B4.mp4"
+        "videoUrl": "http://img2.rossroma.com/display/video_mobile.mp4"
       },
       {
         "content": [],
         "id": "uniops",
         "name": "智能化集中运维",
         "type": "video",
-        "videoUrl": "https://tb-site-sketch.oss-cn-hangzhou.aliyuncs.com/%E6%B7%B7%E5%90%88%E4%BA%91%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C%E8%90%A5/%E6%99%BA%E8%83%BD%E7%AE%A1%E4%BA%91/%E7%B2%BE%E7%BB%86%E5%8C%96%E8%BF%90%E8%90%A5%E7%AE%A1%E7%90%86.mp4"
+        "videoUrl": "http://img2.rossroma.com/display/video_mobile.mp4"
       },
       {
         "content": [],
@@ -318,7 +318,7 @@
         "name": "智能指挥官大屏",
         "type": "video",
         "summary": [],
-        "videoUrl": "https://tb-site-sketch.oss-cn-hangzhou.aliyuncs.com/%E6%B7%B7%E5%90%88%E4%BA%91%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C%E8%90%A5/%E6%99%BA%E8%83%BD%E7%AE%A1%E4%BA%91/%E7%AE%A1%E4%BA%91-%E8%B6%85%E5%AE%BD%E5%B1%8F%E4%BB%8B%E7%BB%8D.mp4"
+        "videoUrl": "http://img2.rossroma.com/display/video_mobile.mp4"
       }
     ],
     "id": "control",
@@ -336,36 +336,12 @@
     ],
     "endpoints": [
       {
-        "id": "管云介绍",
-        "link": "/control/introduction",
-        "position": [5.226423163382673, -1.2, -49.72609476841367],
-        "tip": "点击观看介绍",
-        "alwaysTip": true
-      },
-      {
-        "id": "智能指挥官大屏",
-        "link": "/control/doa",
-        "position": [2.0065896266279863, 2.5, -49.9597197557223],
-        "tip": "点击查看动态大屏",
-        "alwaysTip": true
-      },
-      {
-        "id": "智能化集中运维",
+        "id": "点击观看视频",
         "link": "/control/uniops",
-        "position": [33.58602946614951, -0.75, -37.04022981433751]
-      },
-      {
-        "id": "一体化资源管理",
-        "link": "/control/resource",
-        "position": [38.636678674867554, -0.85, -31.73652566011338]
-      },
-      {
-        "id": "精细化运营管理",
-        "link": "/control/operation",
-        "position": [42.94799484653321, -1, -25.602143243528587]
+        "position": [40, -0.75, -40]
       }
     ],
-    "mobileImgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01tLinmf1OlFqHgmEN6_!!6000000001745-0-tps-4096-1024.jpg"
+    "mobileImgUrl": "http://img2.rossroma.com/display/002.jpg"
   },
   "custom": {
     "children": [
@@ -373,7 +349,7 @@
         "content": [],
         "id": "introduction",
         "type": "video",
-        "videoUrl": "https://tb-site-sketch.oss-cn-hangzhou.aliyuncs.com/%E6%B7%B7%E5%90%88%E4%BA%91%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C%E8%90%A5/%E6%99%BA%E8%83%BD%E7%AE%A1%E4%BA%91/0905%E6%99%BA%E8%83%BD%E4%BA%91%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0-%E6%88%90%E7%89%87.mp4",
+        "videoUrl": "http://img2.rossroma.com/display/video_mobile.mp4",
         "name": "智能管云介绍"
       },
       {
@@ -381,7 +357,7 @@
         "id": "operation",
         "name": "精细化运营管理",
         "type": "video",
-        "videoUrl": "https://tb-site-sketch.oss-cn-hangzhou.aliyuncs.com/%E6%B7%B7%E5%90%88%E4%BA%91%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C%E8%90%A5/%E6%99%BA%E8%83%BD%E7%AE%A1%E4%BA%91/%E4%B8%80%E4%BD%93%E5%8C%96%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86.mp4"
+        "videoUrl": "http://img2.rossroma.com/display/video_mobile.mp4"
       },
       {
         "content": [],
@@ -450,6 +426,6 @@
         "position": [42.94799484653321, -1, -25.602143243528587]
       }
     ],
-    "mobileImgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01tLinmf1OlFqHgmEN6_!!6000000001745-0-tps-4096-1024.jpg"
+    "mobileImgUrl": "http://img2.rossroma.com/display/002.jpg"
   }
 }
