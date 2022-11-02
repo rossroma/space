@@ -115,8 +115,7 @@
               style: {
                   objectFit: "cover"
               },
-            //   src: "//img2.rossroma.com/display/home_".concat(u.d ? "pc" : "mobile", ".mp4"),
-              src: "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/home_".concat(u.d ? "pc" : "mobile", ".mp4"),
+              src: "//img2.rossroma.com/display/home_".concat(u.d ? "pc" : "mobile", ".mp4"),
               poster: "/assets/imgextra/i3/O1CN01HQUdjS1ujwP62ZU1s_!!6000000006074-0-tps-1920-1080.jpg",
               autoPlay: !0,
               muted: !0,

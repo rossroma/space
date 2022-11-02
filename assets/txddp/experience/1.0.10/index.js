@@ -33787,7 +33787,7 @@ PERFORMANCE OF THIS SOFTWARE.
                       switch (e.prev = e.next) {
                       case 0:
                           return e.next = 2,
-                          Object(i.e)("txddp.experience.production.menu");
+                          Object(i.e)("production.menu.json");
                       case 2:
                           return e.abrupt("return", e.sent);
                       case 3:
@@ -33807,7 +33807,7 @@ PERFORMANCE OF THIS SOFTWARE.
                       switch (n.prev = n.next) {
                       case 0:
                           return n.next = 2,
-                          Object(i.e)("txddp.experience.production.structure");
+                          Object(i.e)("production.structure.json");
                       case 2:
                           return e = n.sent,
                           r = e.imgUrl,
@@ -54214,8 +54214,7 @@ and limitations under the License.
   var Be = {
       build: "control",
       control: "use",
-      use: "custom",
-      custom: "product",
+      use: "custom"
   }, Ge, He;
   function We(t) {
       return /^\/build/.test(t) ? "\u5efa\u4e91" : /^\/control/.test(t) ? "\u7ba1\u4e91" : /^\/use/.test(t) ? "\u7528\u4e91" : /^\/custom/.test(t) ? "自定义" : ""

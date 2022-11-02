@@ -130,32 +130,6 @@
       { "name": "BBB", "link": "/build/enterprise" },
       { "name": "CCC", "link": "/build/agility" }
     ],
-    "endpoints": [
-      {
-        "id": "AAAA",
-        "link": "/build/introduction",
-        "position": [0, -1, -50],
-        "tip": "点击查看详细"
-      },
-      {
-        "id": "BBBB",
-        "link": "/build/enterprise",
-        "position": [-11.077424880973364, 1.5, -48.75746771527816],
-        "tip": "点击查看详细"
-      },
-      {
-        "id": "CCCC",
-        "link": "/build/agility",
-        "position": [11.67226819279527, 1.5, -48.61849601988383],
-        "tip": "点击查看详细"
-      },
-      {
-        "id": "DDDD",
-        "link": "/build/agility",
-        "position": [21.67226819279527, 1.5, -48.61849601988383],
-        "tip": "new point"
-      }
-    ],
     "mobileImgUrl": "//img2.rossroma.com/display/001.jpg"
   },
   "use": {
@@ -225,7 +199,7 @@
     "widthDeg": 120,
     "heightDeg": 30,
     "radius": 50,
-    "imgUrl": "https://img.alicdn.com/imgextra/i2/O1CN01rciNqH1dhn8jzpbYZ_!!6000000003768-0-tps-4320-1080.jpg",
+    "imgUrl": "//img2.rossroma.com/display/003.jpg",
     "sidebar": [
       { "name": "云效介绍", "link": "/use/devops" },
       { "name": "混合云应用运维平台", "link": "/use/aaop" },
@@ -280,7 +254,7 @@
         "tip": "即刻体验"
       }
     ],
-    "mobileImgUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01RHcrv523mXFhGjGmf_!!6000000007298-0-tps-4096-1024.jpg"
+    "mobileImgUrl": "//img2.rossroma.com/display/003.jpg"
   },
   "control": {
     "children": [
@@ -336,9 +310,16 @@
     ],
     "endpoints": [
       {
-        "id": "点击观看视频",
+        "id": "智能指挥官大屏演示",
+        "link": "/control/doa",
+        "position": [16.5, 0.2, -50],
+        "tip": "点击观看视频"
+      },
+      {
+        "id": "智能化集中运维",
         "link": "/control/uniops",
-        "position": [20, -0.85, -40]
+        "position": [27, -0.99, -40],
+        "tip": "点击观看视频"
       }
     ],
     "mobileImgUrl": "http://img2.rossroma.com/display/002.jpg"
@@ -387,7 +368,7 @@
     "widthDeg": 150,
     "heightDeg": 30,
     "radius": 50,
-    "imgUrl": "//img2.rossroma.com/display/002.jpg",
+    "imgUrl": "//img2.rossroma.com/display/004.jpg",
     "sidebar": [
       { "link": "/custom/introduction", "name": "整体介绍" },
       { "name": "智能指挥官大屏演示", "link": "/custom/doa" },
@@ -426,6 +407,6 @@
         "position": [42.94799484653321, -1, -25.602143243528587]
       }
     ],
-    "mobileImgUrl": "http://img2.rossroma.com/display/002.jpg"
+    "mobileImgUrl": "http://img2.rossroma.com/display/004.jpg"
   }
 }
