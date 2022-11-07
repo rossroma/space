@@ -27,138 +27,96 @@
   ],
   "nav": [
     {
-      "name": "菜单一",
-      "imgUrl": "//img.alicdn.com/imgextra/i1/O1CN01fY93bp1IydmMpsQHC_!!6000000000962-0-tps-660-371.jpg",
-      "videoUrl": "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/build@2.mp4",
+      "link": "/practice",
+      "videoUrl": "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/practice.mp4",
+      "imgUrl": "//img.alicdn.com/imgextra/i2/O1CN01oIUrXT20MwCnyIA56_!!6000000006836-0-tps-660-371.jpg",
+      "name": "最佳云实践",
+      "children": [
+        {
+          "name": "典型案例",
+          "link": "/practice/case"
+        },
+        {
+          "name": "生态伙伴",
+          "link": "/practice/partner"
+        },
+        {
+          "name": "业界认可",
+          "link": "/practice/recognize"
+        },
+        {
+          "name": "白皮书",
+          "link": "/practice/book"
+        }
+      ],
+      "mobileNextPage": false
+    },
+    {
+      "name": "全栈建云",
+      "imgUrl": "//img.alicdn.com/imgextra/i1/O1CN01p7qQng1mX6SkrX11r_!!6000000004963-0-tps-660-371.jpg",
+      "videoUrl": "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/build@3.mp4",
       "link": "/build",
       "children": [
         {
-          "name": "AAAA",
-          "link": "/build/introduction"
+          "name": "Apsara Stack整体介绍",
+          "link": "use/engineering"
         },
         {
-          "name": "BBBB",
-          "link": "/build/enterprise"
-        },
-        {
-          "name": "CCCC",
-          "link": "/build/agility"
+          "name": "飞天企业版",
+          "link": "/control/doa"
         }
       ],
       "mobileNextPage": false
     },
     {
-      "name": "菜单二",
-      "imgUrl": "//img.alicdn.com/imgextra/i1/O1CN01nxXxvz1ODMWUWmgn5_!!6000000001671-0-tps-660-371.jpg",
-      "videoUrl": "//img2.rossroma.com/display/control@2.mp4",
+      "name": "智能管云",
+      "imgUrl": "//img.alicdn.com/imgextra/i2/O1CN01IoNHGY1nGRfgiq0B7_!!6000000005062-0-tps-660-371.jpg",
+      "videoUrl": "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/control@3.mp4",
       "link": "/control",
       "children": [
         {
-          "name": "1111",
+          "name": "智能指挥官大屏",
           "link": "/control/doa"
         },
         {
-          "name": "2222",
-          "link": "/control/uniops"
+          "name": "智能化运维",
+          "link": "/control/doa"
         },
         {
-          "name": "3333",
-          "link": "/control/resource"
+          "name": "一体化管控",
+          "link": "/control/doa"
         },
         {
-          "name": "44444",
-          "link": "/control/operation"
+          "name": "精细化运营",
+          "link": "/control/doa"
         }
       ],
       "mobileNextPage": false
     },
     {
-      "name": "菜单三",
-      "imgUrl": "//img.alicdn.com/imgextra/i2/O1CN01x97zMQ1SZaGhXnYag_!!6000000002261-0-tps-660-371.jpg",
-      "videoUrl": "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/use@2.mp4",
+      "name": "极致用云",
+      "imgUrl": "//img.alicdn.com/imgextra/i1/O1CN01lAO5mF1jAiFkdqfSo_!!6000000004508-0-tps-660-371.jpg",
+      "videoUrl": "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/use@3.mp4",
       "link": "/use",
       "children": [
         {
-          "name": "甲乙",
-          "link": "/use/devops"
+          "name": "应用运维平台",
+          "link": "use/engineering"
         },
         {
-          "name": "丙丁",
-          "link": "/use/aaop"
+          "name": "一站式应用运维",
+          "link": "/use/engineering"
         },
         {
-          "name": "午己",
-          "link": "/use/monitor"
+          "name": "容灾自愈体验",
+          "link": "/use/engineering"
         },
         {
-          "name": "庚辛",
-          "link": "/use/recovery"
-        },
-        {
-          "name": "壬癸",
+          "name": "运维安全风控",
           "link": "/use/engineering"
         }
       ],
       "mobileNextPage": false
-    },
-    {
-      "name": "自定义菜单",
-      "imgUrl": "//img.alicdn.com/imgextra/i2/O1CN01x97zMQ1SZaGhXnYag_!!6000000002261-0-tps-660-371.jpg",
-      "videoUrl": "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/use@2.mp4",
-      "link": "/custom",
-      "children": [
-        {
-          "name": "甲乙",
-          "link": "/custom/devops"
-        },
-        {
-          "name": "丙丁",
-          "link": "/custom/aaop"
-        },
-        {
-          "name": "午己",
-          "link": "/custom/monitor"
-        },
-        {
-          "name": "庚辛",
-          "link": "/custom/recovery"
-        },
-        {
-          "name": "壬癸",
-          "link": "/custom/engineering"
-        }
-      ],
-      "mobileNextPage": false
-    },
-    {
-      "name": "菜单四",
-      "link": "/product",
-      "children": [
-        {
-          "link": "/product/structure",
-          "name": "子丑"
-        },
-        {
-          "name": "寅卯",
-          "link": "/product/container"
-        },
-        {
-          "name": "辰巳",
-          "link": "/product/storage"
-        },
-        {
-          "link": "/product/bigdata",
-          "name": "午马未羊"
-        },
-        {
-          "link": "/product/database",
-          "name": "戌亥"
-        }
-      ],
-      "mobileNextPage": true,
-      "imgUrl": "//img.alicdn.com/imgextra/i4/O1CN01SK5mrq1pRYQnWERXX_!!6000000005357-0-tps-330-186.jpg",
-      "videoUrl": "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/product@2.mp4",
-      "mobileImgUrl": "//gw.alicdn.com/imgextra/i1/O1CN01vlLilP1KsnuJ7avuU_!!6000000001220-0-tps-372-618.jpg"
     }
   ]
 }
