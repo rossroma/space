@@ -25302,55 +25302,15 @@ PERFORMANCE OF THIS SOFTWARE.
       }
       ), [c]),
       i.a.createElement(i.a.Fragment, null, i.a.createElement("div", {
-          className: "page-sidebar-placeholder ".concat(!l || v ? "collapse" : "").trim()
-      }), i.a.createElement("div", {
-          className: "page-sidebar ".concat(v ? "collapse" : "").trim()
-      }, i.a.createElement("div", {
-          className: "page-sidebar-content"
-      }, i.a.createElement("div", {
-          className: "sidebar-header"
-      }, e), i.a.createElement("div", {
-          className: "sidebar-list"
-      }, r.map((function(t) {
-          var e = Object(u.c)(t.link) ? u.b : o.a;
-          return i.a.createElement(e, {
-              className: "sidebar-link",
-              to: t.link,
-              onClick: function e() {
-                  Object(h.a)("\u5de6\u4fa7\u76ee\u5f55", "\u5207\u6362", t.name)
-              },
-              key: t.name
-          }, i.a.createElement("i", {
-              className: "sidebar-link-dot"
-          }), i.a.createElement("span", {
-              className: "sidebar-link-text"
-          }, t.name.replace("\\n", d ? "\n" : "")))
-      }
-      )))), a && i.a.createElement("div", {
-          className: "collapse-btn",
+          className: "Home--navBtn--2BrpB0G",
           onClick: function t() {
-              y((function(t) {
-                  return !t
-              }
-              )),
-              Object(h.a)("\u5de6\u4fa7\u76ee\u5f55", v ? "\u5c55\u5f00" : "\u6536\u8d77")
-          }
-      }, i.a.createElement(s.b, {
-          className: v ? "rotate" : "",
-          type: "back"
-      }), d && i.a.createElement("div", {
-          className: "collapse-btn-extend"
-      })), i.a.createElement("div", {
-          className: "global-nav-btn",
-          onClick: function t() {
+            console.log('点击了')
               "function" == typeof f && f(),
               Object(h.a)("\u5de6\u4fa7\u76ee\u5f55", "\u5feb\u901f\u5bfc\u822a")
           }
       }, i.a.createElement(s.b, {
           type: "menu"
-      }), i.a.createElement("span", {
-          className: "global-nav-btn-text"
-      }, "\u5feb\u901f\u5bfc\u822a"))))
+      })))
   }
   var w = 40
     , x = 36
