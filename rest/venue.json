@@ -130,7 +130,7 @@
       { "name": "BBB", "link": "/build/enterprise" },
       { "name": "CCC", "link": "/build/agility" }
     ],
-    "mobileImgUrl": "//img2.rossroma.com/display/001.jpg"
+    "mobileImgUrl": "//img2.rossroma.com/display/001_mb.jpeg"
   },
   "use": {
     "children": [
@@ -254,7 +254,7 @@
         "tip": "即刻体验"
       }
     ],
-    "mobileImgUrl": "//img2.rossroma.com/display/003.jpg"
+    "mobileImgUrl": "//img2.rossroma.com/display/003_mb.jpeg"
   },
   "control": {
     "children": [
@@ -322,7 +322,7 @@
         "tip": "点击观看视频"
       }
     ],
-    "mobileImgUrl": "http://img2.rossroma.com/display/002.jpg"
+    "mobileImgUrl": "http://img2.rossroma.com/display/002_mb.jpeg"
   },
   "custom": {
     "children": [
@@ -407,6 +407,6 @@
         "position": [42.94799484653321, -1, -25.602143243528587]
       }
     ],
-    "mobileImgUrl": "http://img2.rossroma.com/display/004.jpg"
+    "mobileImgUrl": "http://img2.rossroma.com/display/004_mb.jpeg"
   }
 }
