@@ -27,47 +27,41 @@
   ],
   "nav": [
     {
-      "link": "/practice",
-      "videoUrl": "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/practice.mp4",
-      "imgUrl": "//img.alicdn.com/imgextra/i2/O1CN01oIUrXT20MwCnyIA56_!!6000000006836-0-tps-660-371.jpg",
-      "name": "最佳云实践",
-      "children": [
-        {
-          "name": "典型案例",
-          "link": "/practice/case"
-        },
-        {
-          "name": "生态伙伴",
-          "link": "/practice/partner"
-        },
-        {
-          "name": "业界认可",
-          "link": "/practice/recognize"
-        },
-        {
-          "name": "白皮书",
-          "link": "/practice/book"
-        }
-      ],
-      "mobileNextPage": false
-    },
-    {
       "name": "全栈建云",
-      "imgUrl": "//img.alicdn.com/imgextra/i1/O1CN01p7qQng1mX6SkrX11r_!!6000000004963-0-tps-660-371.jpg",
-      "videoUrl": "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/build@3.mp4",
+      "imgUrl": "//img2.rossroma.com/display/C1.png",
+      "videoUrl": "//img2.rossroma.com/display/practice.mp4",
       "link": "/build",
       "children": [
         {
           "name": "Apsara Stack整体介绍",
-          "link": "use/engineering"
+          "link": "/build/introduction"
         },
         {
           "name": "飞天企业版",
-          "link": "/control/doa"
+          "link": "/build/introduction"
         }
       ],
       "mobileNextPage": false
     },
+
+    {
+      "link": "/custom",
+      "videoUrl": "//img2.rossroma.com/display/custom.mp4",
+      "imgUrl": "//img2.rossroma.com/display/C2.png",
+      "name": "最佳云实践",
+      "children": [
+        {
+          "name": "管云介绍",
+          "link": "/custom/introduction"
+        },
+        {
+          "name": "智能指挥官大屏",
+          "link": "/custom/introduction"
+        }
+      ],
+      "mobileNextPage": false
+    },
+
     {
       "name": "智能管云",
       "imgUrl": "//img.alicdn.com/imgextra/i2/O1CN01IoNHGY1nGRfgiq0B7_!!6000000005062-0-tps-660-371.jpg",
@@ -101,7 +95,7 @@
       "children": [
         {
           "name": "应用运维平台",
-          "link": "use/engineering"
+          "link": "/use/introduction"
         },
         {
           "name": "一站式应用运维",
