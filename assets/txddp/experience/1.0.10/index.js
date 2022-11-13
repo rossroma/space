@@ -24589,7 +24589,7 @@ PERFORMANCE OF THIS SOFTWARE.
           if (!e || !r)
               return {
                   width: "100%",
-                  height: "100%"
+                  height: "100%",
               };
           var t = e / r;
           return t < u ? {
@@ -53897,7 +53897,7 @@ and limitations under the License.
           hasPlaceholder: !0,
           nextText: "\u7ee7\u7eed\u63a2\u7d22",
           onNext: function t() {
-              Object(Ht.c)("/build", "//img2.rossroma.com/display/build@2_".concat(ae.d ? "pc" : "mobile", ".mp4")),
+              Object(Ht.c)("/build", "//img2.rossroma.com/display/build2_".concat(ae.d ? "pc" : "mobile", ".mp4")),
               Object(Vt.a)("\u7ee7\u7eed\u63a2\u7d22", "\u4e91\u5b9e\u8df5")
           }
       }, r)
@@ -54172,9 +54172,9 @@ and limitations under the License.
           return t
   }
   var Be = {
-      build: "control",
-      control: "use",
-      use: "custom"
+      build: "custom",
+      custom: "control",
+      control: "use"
   }, Ge, He;
   function We(t) {
       return /^\/build/.test(t) ? "\u5efa\u4e91" : /^\/control/.test(t) ? "\u7ba1\u4e91" : /^\/use/.test(t) ? "\u7528\u4e91" : /^\/custom/.test(t) ? "自定义" : ""
@@ -54201,6 +54201,10 @@ and limitations under the License.
           null;
       function E() {
           var t = Be[p];
+          if (!t) {
+            return Object(Wt.a)("/"),
+            Object(Vt.a)("\u7ee7\u7eed\u63a2\u7d22", "\u4e91\u4ea7\u54c1")
+          }
           t && Object(Ht.c)("/".concat(t), "//img2.rossroma.com/display/".concat(t, "@2_").concat(ae.d ? "pc" : "mobile", ".mp4")),
           Object(Vt.a)("\u7ee7\u7eed\u63a2\u7d22", We(a))
       }
@@ -54214,7 +54218,7 @@ and limitations under the License.
           showCollapse: !0,
           defaultCollapse: !0,
           hasPlaceholder: !1,
-          nextText: "\u7ee7\u7eed\u63a2\u7d22",
+          nextText: y.id === "use" ? "回到首页" : "\u7ee7\u7eed\u63a2\u7d22",
           onNext: E,
           venueMode: !0
       }, o.a.createElement(Me, {
