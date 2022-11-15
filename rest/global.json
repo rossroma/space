@@ -27,17 +27,13 @@
   ],
   "nav": [
     {
-      "name": "全栈建云",
+      "name": "麦格纳体验馆",
       "imgUrl": "//img2.rossroma.com/display/C1.png",
       "videoUrl": "//img2.rossroma.com/display/practice.mp4",
       "link": "/build",
       "children": [
         {
-          "name": "Apsara Stack整体介绍",
-          "link": "/build/introduction"
-        },
-        {
-          "name": "飞天企业版",
+          "name": "关于麦格纳",
           "link": "/build/introduction"
         }
       ],
@@ -48,14 +44,18 @@
       "link": "/custom",
       "videoUrl": "//img2.rossroma.com/display/custom.mp4",
       "imgUrl": "//img2.rossroma.com/display/C2.png",
-      "name": "最佳云实践",
+      "name": "关于我们",
       "children": [
         {
-          "name": "管云介绍",
+          "name": "企业文化",
           "link": "/custom/introduction"
         },
         {
-          "name": "智能指挥官大屏",
+          "name": "荣誉认证",
+          "link": "/custom/introduction"
+        },
+        {
+          "name": "发展历程",
           "link": "/custom/introduction"
         }
       ],
@@ -63,50 +63,50 @@
     },
 
     {
-      "name": "智能管云",
+      "name": "技术能力",
       "imgUrl": "//img.alicdn.com/imgextra/i2/O1CN01IoNHGY1nGRfgiq0B7_!!6000000005062-0-tps-660-371.jpg",
       "videoUrl": "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/control@3.mp4",
       "link": "/control",
       "children": [
         {
-          "name": "智能指挥官大屏",
+          "name": "模具制造",
           "link": "/control/doa"
         },
         {
-          "name": "智能化运维",
+          "name": "冲压",
           "link": "/control/doa"
         },
         {
-          "name": "一体化管控",
+          "name": "自动化",
           "link": "/control/doa"
         },
         {
-          "name": "精细化运营",
+          "name": "实验室",
           "link": "/control/doa"
         }
       ],
       "mobileNextPage": false
     },
     {
-      "name": "极致用云",
+      "name": "产品中心",
       "imgUrl": "//img.alicdn.com/imgextra/i1/O1CN01lAO5mF1jAiFkdqfSo_!!6000000004508-0-tps-660-371.jpg",
       "videoUrl": "//hybrid-cloud-experience.oss-cn-hangzhou.aliyuncs.com/mini/use@3.mp4",
       "link": "/use",
       "children": [
         {
-          "name": "应用运维平台",
+          "name": "传动系统",
           "link": "/use/introduction"
         },
         {
-          "name": "一站式应用运维",
+          "name": "转向系统",
           "link": "/use/engineering"
         },
         {
-          "name": "容灾自愈体验",
+          "name": "发动机管理系统",
           "link": "/use/engineering"
         },
         {
-          "name": "运维安全风控",
+          "name": "电源系统",
           "link": "/use/engineering"
         }
       ],

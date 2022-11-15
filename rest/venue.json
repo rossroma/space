@@ -6,11 +6,11 @@
         "id": "introduction",
         "type": "video",
         "videoUrl": "https://tb-site-sketch.oss-cn-hangzhou.aliyuncs.com/%E6%B7%B7%E5%90%88%E4%BA%91%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C%E8%90%A5/%E5%85%A8%E6%A0%88%E5%BB%BA%E4%BA%91/%E3%80%90%E5%AF%B9%E5%A4%96%E3%80%91%E9%98%BF%E9%87%8C%E4%BA%91%E6%B7%B7%E5%90%88%E4%BA%91Apsara%20Stack2.0%E4%BA%A7%E5%93%81%E7%90%86%E5%BF%B5%E4%BB%8B%E7%BB%8D%E8%A7%86%E9%A2%91.mp4",
-        "name": "飞天企业版"
+        "name": "关于麦格纳"
       }
     ],
     "id": "build",
-    "name": "全栈建云",
+    "name": "麦格纳体验馆",
     "widthDeg": 120,
     "heightDeg": 30,
     "radius": 50,
@@ -18,7 +18,7 @@
     "sidebar": [],
     "endpoints": [
       {
-        "id": "企业版",
+        "id": "关于麦格纳",
         "link": "/build/introduction",
         "position": [
           -33,
@@ -38,11 +38,11 @@
         "id": "introduction",
         "type": "video",
         "videoUrl": "//img2.rossroma.com/display/introduction.mp4",
-        "name": "智能管云介绍"
+        "name": "企业文化"
       }
     ],
     "id": "custom",
-    "name": "最佳云实践",
+    "name": "关于我们",
     "widthDeg": 150,
     "heightDeg": 30,
     "radius": 50,
@@ -50,14 +50,14 @@
     "sidebar": [],
     "endpoints": [
       {
-        "id": "管云介绍",
+        "id": "企业文化",
         "link": "/custom/introduction",
         "position": [13, 1, -49.72609476841367],
         "tip": "点击观看介绍",
         "alwaysTip": true
       },
       {
-        "id": "智能指挥官大屏",
+        "id": "荣誉认证",
         "link": "/custom/introduction",
         "position": [31, 0, -49.9597197557223],
         "tip": "点击观看介绍",
@@ -106,7 +106,7 @@
       }
     ],
     "id": "control",
-    "name": "智能管云",
+    "name": "技术能力",
     "widthDeg": 150,
     "heightDeg": 30,
     "radius": 50,
@@ -228,7 +228,7 @@
       }
     ],
     "id": "use",
-    "name": "极致用云",
+    "name": "产品中心",
     "widthDeg": 120,
     "heightDeg": 30,
     "radius": 50,
